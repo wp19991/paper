@@ -17,6 +17,6 @@
 
 [TOP TEN Big Data TRENDS.pdf](./Big-Data-TRENDS/TOP%20TEN%20Big%20Data%20TRENDS.pdf)
 
-[翻译.md](./Big-Data-TRENDS/TOP TEN Big Data TRENDS翻译.md)
+[翻译.md](./Big-Data-TRENDS/TOP%20TEN%20Big%20Data%20TRENDS翻译.md)
 
 ---
